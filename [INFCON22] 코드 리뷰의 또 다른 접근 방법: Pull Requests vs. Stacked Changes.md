@@ -1,4 +1,4 @@
-# 코드 리뷰의 또 다른 접근 방법 : Pull Requests vs. Stacked Changes
+# [INFCON22] 코드 리뷰의 또 다른 접근 방법 : Pull Requests vs. Stacked Changes
 
 > https://www.inflearn.com/course/infcon2022/unit/126510
 

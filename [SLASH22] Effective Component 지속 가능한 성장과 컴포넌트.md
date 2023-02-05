@@ -1,4 +1,4 @@
-# Effective Component : 지속 가능한 성장과 컴포넌트
+# [SLASH22] Effective Component : 지속 가능한 성장과 컴포넌트
 
 > https://youtu.be/fR8tsJ2r7Eg
 
